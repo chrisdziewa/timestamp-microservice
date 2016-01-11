@@ -11,10 +11,12 @@ body {
 .list-header {
   padding-left: 15px;
   margin-bottom: 0;
+  margin-top: 5px;
 }
 
 ul {
   margin-top: 0;
+  margin: 0;
 }
 
 li {
@@ -25,6 +27,7 @@ li {
 .user-stories {
   font-size: 1.1rem;
   border-left: 5px solid rgba(220,220,220,1);
+  padding: 5px 0;
 }
 
 .number {
@@ -33,4 +36,13 @@ li {
   padding: 0 6px 0 6px;
   color: white;
   text-align: center;
+}
+
+.example-section p {
+  width: 60%;
+}
+
+.example {
+  background: rgba(230,230,230,.4);
+  color: rgba(204, 8, 7, 1);
 }
