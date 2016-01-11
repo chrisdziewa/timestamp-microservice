@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/chrisdziewa/timestamp-microservice",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "moment": "^2.11.1"
   }
 }
