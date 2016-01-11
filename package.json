@@ -1,0 +1,27 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "Micro API that returns a Unix timestamp and natural language form as JSON  upon receiving one of these two types",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisdziewa/timestamp-microservice.git"
+  },
+  "keywords": [
+    "Timestamp",
+    "Unix",
+    "FreeCodeCamp"
+  ],
+  "author": "Chris Dziewa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisdziewa/timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/chrisdziewa/timestamp-microservice",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
